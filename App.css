@@ -1,0 +1,51 @@
+.style{
+  text-align: center;
+  font-size: 50px;
+  color:crimson;
+  background-color:darkblue;
+}
+
+
+
+.body{
+  background-color: steelblue;
+}
+
+.container  {
+  justify-content: center;
+}
+.additem{
+  font-size: 50px;
+  text-align: center;
+}
+
+.button{
+  color: white;
+  background-color: black;
+  font-size: 40px;
+  width: 90%;
+}
+
+.input{
+  width: 90%;
+  height: 50px;
+}
+
+.checkbox{
+  height: 20px;
+  width: 20px;
+}
+
+.btn-btn{
+  height: 50px;
+  width: 70px;
+  color: black;
+  background-color: red;
+}
+.font{
+  font-size: 40px;
+}
+
+.lists{
+  list-style: none;
+}
